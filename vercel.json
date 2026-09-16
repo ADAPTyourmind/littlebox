@@ -1,0 +1,5 @@
+{
+  "functions": {
+    "api/ettj.js": { "maxDuration": 20 }
+  }
+}
